@@ -1,7 +1,3 @@
-# .github
-Organization profile README for DEFENDER project
-
-
 # DEFENDER 🚀
 
 ### Intelligent Multi-Sensory Animal Intrusion and Prevention System for Farms
