@@ -1,6 +1,6 @@
 # DEFENDER 🚀
 <p align="center">
-  <img src="./assets/deadpool.png" width="900"/>
+  <img src="./assets/Deadpool-Wallpaper-29671.jpg" width="900"/>
 </p>
 
 ### Intelligent Multi-Sensory Animal Intrusion and Prevention System for Farms
